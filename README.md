@@ -1,6 +1,6 @@
-# Kl-AdvancedNPCs Script 🚗🎮
+# kl-AdvancedNPCs Script 🚗🎮
 
-Welcome to the Kl-AdvancedNPCs script repository, developed by Ottersek in collaboration with the KL-Scripts team! This script enhances your FiveM experience by providing customizable options to manage NPC vehicles and pedestrian density.
+> Welcome to the kl-AdvancedNPCs script repository, developed by Ottersek in collaboration with the KL-Scripts team! This script enhances your FiveM experience by providing customizable options to manage NPC vehicles and pedestrian density.
 
 ## Features 🌟
 
